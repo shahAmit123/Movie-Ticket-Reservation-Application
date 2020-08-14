@@ -1,4 +1,4 @@
-# movie-reservation
+# Movie-Ticket-Reservation-Application
 User can reserve multiple seats in a row
 
 User can get list of unreserved seats for a particular row
